@@ -1,5 +1,5 @@
 # Binaries
-janus-tester
+jnx
 *.exe
 
 # Generated POC files
@@ -22,3 +22,8 @@ janus-tester
 # OS specific
 .DS_Store
 Thumbs.db
+
+# Java files (not needed)
+*.class
+*.jar
+Main.java
