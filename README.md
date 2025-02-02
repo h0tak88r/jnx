@@ -43,3 +43,5 @@ This tool is for educational and testing purposes only. Always test APKs in a sa
 
 - Go 1.15 or higher
 - Android test devices or emulators (recommended API levels: 22, 23)
+- POC DEX file (optional)
+- apksigner tool
